@@ -6,82 +6,47 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "Join us"
+url = "join-us/"
 weight = 2
 
-[[main]]
-name = "Services"
-url = "services/"
-weight = 3
+# [[main]]
+# name = "Services"
+# url = "services/"
+# weight = 3
 
 [[main]]
 name = "Team"
 url = "team/"
-weight = 4
+weight = 3
 
 [[main]]
 name = "Blog"
 url = "blog/"
+weight = 4
+
+# [[main]]
+# name = "Contact"
+# url = "contact/"
+# weight = 5
+
+[[main]]
+name = "More"
 weight = 5
-
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 6
-
-[[main]]
-name = "Pages"
-weight = 7
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Career"
-  url = "career/"
+  parent = "More"
+  name = "Meetings"
+  url = "meetings/"
 
-  [[main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing/"
-
-  [[main]]
-  parent = "Pages"
-  name = "Pricing 2"
-  url = "pricing-2/"
   
   [[main]]
-  parent = "Pages"
-  name = "How It Works"
-  url = "how-it-works/"
-  
-  [[main]]
-  parent = "Pages"
+  parent = "More"
   name = "Testimonial"
   url = "testimonial/"
   
   [[main]]
-  parent = "Pages"
+  parent = "More"
   name = "Faq"
   url = "faq/"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  url = "changelog/"
-
-# Footer menu
-[[footer]]
-name = "Faq"
-url = "faq/"
-weight = 1
-
-[[footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3

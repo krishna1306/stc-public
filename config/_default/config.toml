@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/copper/"
-title = "Copper Hugo - Software and SAAS landing template"
+title = "Singtel Toastmasters Club"
 theme = "copper-hugo"
 # post pagination
 paginate = "6"
