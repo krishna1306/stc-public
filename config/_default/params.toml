@@ -19,8 +19,8 @@ custom_script= ""
 
 [navigation_button_linked]
 enable = true
-label = "Member Log In"
-link = "https://www.stclub.site/members/login.html"
+label = "Members Area"
+link = "https://www.stclub.site/"
 
 
 # cookies
