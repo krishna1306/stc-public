@@ -7,7 +7,6 @@ author_profile: https://linkedin.com/in/#
 description: this is meta description
 categories:
 - science
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.
